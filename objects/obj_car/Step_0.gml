@@ -3,6 +3,10 @@
 
 speed = clamp(speed, -15, 15)
 
+//----DEVTESTS----
+
+
+
 
 // Movement
 image_angle = dir + direction_offset
