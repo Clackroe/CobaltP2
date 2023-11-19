@@ -20,5 +20,6 @@
     {"name":"Light","order":4,"path":"sprites/Light/Light.yy",},
     {"name":"Sprite3","order":3,"path":"sprites/Sprite3/Sprite3.yy",},
     {"name":"spr_bkgrnd_dev","order":2,"path":"sprites/spr_bkgrnd_dev/spr_bkgrnd_dev.yy",},
+    {"name":"spr_roads","order":5,"path":"sprites/spr_roads/spr_roads.yy",},
   ],
 }
