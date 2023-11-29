@@ -13,5 +13,9 @@ dir = image_angle + direction_offset
 prev_dir = dir
 prev_spd = 0
 
+var surfaceWithMask
+
+
+
 
 smoke = part_system_create(ParticleSystem1)
