@@ -52,3 +52,5 @@ spd *= friction;
 // Apply movement
 hspeed += lengthdir_x(spd, dir);
 vspeed += lengthdir_y(spd, dir);
+
+camera_set_view_pos(view_camera[0], x - 960, y - 540);
