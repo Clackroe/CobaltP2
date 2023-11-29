@@ -1,0 +1,245 @@
+You are using YYP Maker v1.1.5, released in 14-08-2022
+
+
+
+[29-11-2023 09:22:45] Initialized GameMaker Project: CobaltP2.yyp
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/animcurves
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/extensions
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/fonts
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/notes
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/objects
+[29-11-2023 09:22:45] Checking obj_obstacle1
+[29-11-2023 09:22:45] Directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/objects/obj_obstacle1
+[29-11-2023 09:22:45] Checking obj_car1
+[29-11-2023 09:22:45] Directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/objects/obj_car1
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/objects/obj_car1
+[29-11-2023 09:22:45] Checking Step_0.gml
+[29-11-2023 09:22:45] Checking obj_car1.yy
+[29-11-2023 09:22:45] Parsing C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/objects/obj_car1/obj_car1.yy
+[29-11-2023 09:22:45] Reading C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/objects/obj_car1/obj_car1.yy
+[29-11-2023 09:22:45] Par: "folders/Objects" at dir: "C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/objects/obj_car1/obj_car1.yy"
+[29-11-2023 09:22:45] Found Object: obj_car1
+[29-11-2023 09:22:45] Checking Draw_0.gml
+[29-11-2023 09:22:45] Checking Create_0.gml
+[29-11-2023 09:22:45] Checking Collision_obj_obstacle1.gml
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/objects/obj_obstacle1
+[29-11-2023 09:22:45] Checking obj_obstacle1.yy
+[29-11-2023 09:22:45] Parsing C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/objects/obj_obstacle1/obj_obstacle1.yy
+[29-11-2023 09:22:45] Reading C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/objects/obj_obstacle1/obj_obstacle1.yy
+[29-11-2023 09:22:45] Par: "folders/Objects" at dir: "C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/objects/obj_obstacle1/obj_obstacle1.yy"
+[29-11-2023 09:22:45] Found Object: obj_obstacle1
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/options
+[29-11-2023 09:22:45] Checking windows
+[29-11-2023 09:22:45] Directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/options/windows
+[29-11-2023 09:22:45] Checking operagx
+[29-11-2023 09:22:45] Directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/options/operagx
+[29-11-2023 09:22:45] Checking main
+[29-11-2023 09:22:45] Directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/options/main
+[29-11-2023 09:22:45] Checking ios
+[29-11-2023 09:22:45] Directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/options/ios
+[29-11-2023 09:22:45] Checking android
+[29-11-2023 09:22:45] Directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/options/android
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/options/android
+[29-11-2023 09:22:45] Checking options_android.yy
+[29-11-2023 09:22:45] Parsing C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/options/android/options_android.yy
+[29-11-2023 09:22:45] Reading C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/options/android/options_android.yy
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/options/ios
+[29-11-2023 09:22:45] Checking options_ios.yy
+[29-11-2023 09:22:45] Parsing C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/options/ios/options_ios.yy
+[29-11-2023 09:22:45] Reading C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/options/ios/options_ios.yy
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/options/main
+[29-11-2023 09:22:45] Checking options_main.yy
+[29-11-2023 09:22:45] Parsing C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/options/main/options_main.yy
+[29-11-2023 09:22:45] Reading C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/options/main/options_main.yy
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/options/operagx
+[29-11-2023 09:22:45] Checking options_operagx.yy
+[29-11-2023 09:22:45] Parsing C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/options/operagx/options_operagx.yy
+[29-11-2023 09:22:45] Reading C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/options/operagx/options_operagx.yy
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/options/windows
+[29-11-2023 09:22:45] Checking options_windows.yy
+[29-11-2023 09:22:45] Parsing C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/options/windows/options_windows.yy
+[29-11-2023 09:22:45] Reading C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/options/windows/options_windows.yy
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/paths
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/rooms
+[29-11-2023 09:22:45] Checking Room1
+[29-11-2023 09:22:45] Directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/rooms/Room1
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/rooms/Room1
+[29-11-2023 09:22:45] Checking Room1.yy
+[29-11-2023 09:22:45] Parsing C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/rooms/Room1/Room1.yy
+[29-11-2023 09:22:45] Reading C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/rooms/Room1/Room1.yy
+[29-11-2023 09:22:45] Par: "folders/Rooms" at dir: "C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/rooms/Room1/Room1.yy"
+[29-11-2023 09:22:45] Found Room: Room1
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/scripts
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sequences
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/shaders
+[29-11-2023 09:22:45] Checking Tunnel
+[29-11-2023 09:22:45] Directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/shaders/Tunnel
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/shaders/Tunnel
+[29-11-2023 09:22:45] Checking Tunnel.yy
+[29-11-2023 09:22:45] Parsing C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/shaders/Tunnel/Tunnel.yy
+[29-11-2023 09:22:45] Reading C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/shaders/Tunnel/Tunnel.yy
+[29-11-2023 09:22:45] Par: "folders/Shaders" at dir: "C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/shaders/Tunnel/Tunnel.yy"
+[29-11-2023 09:22:45] Found Shader: Tunnel
+[29-11-2023 09:22:45] Checking Tunnel.vsh
+[29-11-2023 09:22:45] Checking Tunnel.fsh
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sounds
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites
+[29-11-2023 09:22:45] Checking spr_roads
+[29-11-2023 09:22:45] Directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_roads
+[29-11-2023 09:22:45] Checking spr_obstacle1
+[29-11-2023 09:22:45] Directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_obstacle1
+[29-11-2023 09:22:45] Checking spr_car_temp
+[29-11-2023 09:22:45] Directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_car_temp
+[29-11-2023 09:22:45] Checking spr_car3
+[29-11-2023 09:22:45] Directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_car3
+[29-11-2023 09:22:45] Checking spr_car2
+[29-11-2023 09:22:45] Directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_car2
+[29-11-2023 09:22:45] Checking spr_car1
+[29-11-2023 09:22:45] Directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_car1
+[29-11-2023 09:22:45] Checking spr_bkgrnd_dev
+[29-11-2023 09:22:45] Directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_bkgrnd_dev
+[29-11-2023 09:22:45] Checking Sprite3
+[29-11-2023 09:22:45] Directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/Sprite3
+[29-11-2023 09:22:45] Checking Light
+[29-11-2023 09:22:45] Directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/Light
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/Light
+[29-11-2023 09:22:45] Checking Light.yy
+[29-11-2023 09:22:45] Parsing C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/Light/Light.yy
+[29-11-2023 09:22:45] Reading C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/Light/Light.yy
+[29-11-2023 09:22:45] Par: "folders/Sprites" at dir: "C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/Light/Light.yy"
+[29-11-2023 09:22:45] Found Sprite: Light
+[29-11-2023 09:22:45] Checking layers
+[29-11-2023 09:22:45] Directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/Light/layers
+[29-11-2023 09:22:45] Checking da450633-4bda-4e6b-9488-80b59f1884ce.png
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/Light/layers
+[29-11-2023 09:22:45] Checking da450633-4bda-4e6b-9488-80b59f1884ce
+[29-11-2023 09:22:45] Directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/Light/layers/da450633-4bda-4e6b-9488-80b59f1884ce
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/Light/layers/da450633-4bda-4e6b-9488-80b59f1884ce
+[29-11-2023 09:22:45] Checking 4e343b46-aafd-4f90-a426-2f928bd338e0.png
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/Sprite3
+[29-11-2023 09:22:45] Checking Sprite3.yy
+[29-11-2023 09:22:45] Parsing C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/Sprite3/Sprite3.yy
+[29-11-2023 09:22:45] Reading C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/Sprite3/Sprite3.yy
+[29-11-2023 09:22:45] Par: "folders/Sprites" at dir: "C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/Sprite3/Sprite3.yy"
+[29-11-2023 09:22:45] Found Sprite: Sprite3
+[29-11-2023 09:22:45] Checking layers
+[29-11-2023 09:22:45] Directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/Sprite3/layers
+[29-11-2023 09:22:45] Checking 7eff0f40-2183-4851-8b67-29d4d600c802.png
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/Sprite3/layers
+[29-11-2023 09:22:45] Checking 7eff0f40-2183-4851-8b67-29d4d600c802
+[29-11-2023 09:22:45] Directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/Sprite3/layers/7eff0f40-2183-4851-8b67-29d4d600c802
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/Sprite3/layers/7eff0f40-2183-4851-8b67-29d4d600c802
+[29-11-2023 09:22:45] Checking 23a54ba2-6f9b-4272-a06e-678ab82d8bcb.png
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_bkgrnd_dev
+[29-11-2023 09:22:45] Checking spr_bkgrnd_dev.yy
+[29-11-2023 09:22:45] Parsing C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_bkgrnd_dev/spr_bkgrnd_dev.yy
+[29-11-2023 09:22:45] Reading C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_bkgrnd_dev/spr_bkgrnd_dev.yy
+[29-11-2023 09:22:45] Par: "folders/Sprites" at dir: "C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_bkgrnd_dev/spr_bkgrnd_dev.yy"
+[29-11-2023 09:22:45] Found Sprite: spr_bkgrnd_dev
+[29-11-2023 09:22:45] Checking layers
+[29-11-2023 09:22:45] Directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_bkgrnd_dev/layers
+[29-11-2023 09:22:45] Checking be114541-5949-48a9-9828-dd281f76e2df.png
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_bkgrnd_dev/layers
+[29-11-2023 09:22:45] Checking be114541-5949-48a9-9828-dd281f76e2df
+[29-11-2023 09:22:45] Directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_bkgrnd_dev/layers/be114541-5949-48a9-9828-dd281f76e2df
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_bkgrnd_dev/layers/be114541-5949-48a9-9828-dd281f76e2df
+[29-11-2023 09:22:45] Checking ec120218-fe4c-4965-b0d8-17709965e3ae.png
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_car1
+[29-11-2023 09:22:45] Checking spr_car1.yy
+[29-11-2023 09:22:45] Parsing C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_car1/spr_car1.yy
+[29-11-2023 09:22:45] Reading C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_car1/spr_car1.yy
+[29-11-2023 09:22:45] Par: "folders/Sprites" at dir: "C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_car1/spr_car1.yy"
+[29-11-2023 09:22:45] Found Sprite: spr_car1
+[29-11-2023 09:22:45] Checking layers
+[29-11-2023 09:22:45] Directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_car1/layers
+[29-11-2023 09:22:45] Checking 595648eb-8e30-4dd2-9904-d1d1c8dab78e.png
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_car1/layers
+[29-11-2023 09:22:45] Checking 595648eb-8e30-4dd2-9904-d1d1c8dab78e
+[29-11-2023 09:22:45] Directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_car1/layers/595648eb-8e30-4dd2-9904-d1d1c8dab78e
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_car1/layers/595648eb-8e30-4dd2-9904-d1d1c8dab78e
+[29-11-2023 09:22:45] Checking a1f172ea-eb7b-46b6-a54a-03aa07f3e60f.png
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_car2
+[29-11-2023 09:22:45] Checking spr_car2.yy
+[29-11-2023 09:22:45] Parsing C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_car2/spr_car2.yy
+[29-11-2023 09:22:45] Reading C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_car2/spr_car2.yy
+[29-11-2023 09:22:45] Par: "folders/Sprites" at dir: "C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_car2/spr_car2.yy"
+[29-11-2023 09:22:45] Found Sprite: spr_car2
+[29-11-2023 09:22:45] Checking layers
+[29-11-2023 09:22:45] Directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_car2/layers
+[29-11-2023 09:22:45] Checking 77aff1d9-9c04-46b7-8dd7-b68d7d32ef05.png
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_car2/layers
+[29-11-2023 09:22:45] Checking 77aff1d9-9c04-46b7-8dd7-b68d7d32ef05
+[29-11-2023 09:22:45] Directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_car2/layers/77aff1d9-9c04-46b7-8dd7-b68d7d32ef05
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_car2/layers/77aff1d9-9c04-46b7-8dd7-b68d7d32ef05
+[29-11-2023 09:22:45] Checking 86868673-702b-4799-9c17-c754af1134a4.png
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_car3
+[29-11-2023 09:22:45] Checking spr_car3.yy
+[29-11-2023 09:22:45] Parsing C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_car3/spr_car3.yy
+[29-11-2023 09:22:45] Reading C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_car3/spr_car3.yy
+[29-11-2023 09:22:45] Par: "folders/Sprites" at dir: "C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_car3/spr_car3.yy"
+[29-11-2023 09:22:45] Found Sprite: spr_car3
+[29-11-2023 09:22:45] Checking layers
+[29-11-2023 09:22:45] Directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_car3/layers
+[29-11-2023 09:22:45] Checking de410887-bbcc-4149-b777-f270a99af5c1.png
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_car3/layers
+[29-11-2023 09:22:45] Checking de410887-bbcc-4149-b777-f270a99af5c1
+[29-11-2023 09:22:45] Directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_car3/layers/de410887-bbcc-4149-b777-f270a99af5c1
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_car3/layers/de410887-bbcc-4149-b777-f270a99af5c1
+[29-11-2023 09:22:45] Checking 693180ec-dece-46f9-a00c-abaa5509eaab.png
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_car_temp
+[29-11-2023 09:22:45] Checking spr_car_temp.yy
+[29-11-2023 09:22:45] Parsing C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_car_temp/spr_car_temp.yy
+[29-11-2023 09:22:45] Reading C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_car_temp/spr_car_temp.yy
+[29-11-2023 09:22:45] Par: "folders/Sprites" at dir: "C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_car_temp/spr_car_temp.yy"
+[29-11-2023 09:22:45] Found Sprite: spr_car_temp
+[29-11-2023 09:22:45] Checking layers
+[29-11-2023 09:22:45] Directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_car_temp/layers
+[29-11-2023 09:22:45] Checking d796760a-893f-4eef-95ae-8ab21588523c.png
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_car_temp/layers
+[29-11-2023 09:22:45] Checking d796760a-893f-4eef-95ae-8ab21588523c
+[29-11-2023 09:22:45] Directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_car_temp/layers/d796760a-893f-4eef-95ae-8ab21588523c
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_car_temp/layers/d796760a-893f-4eef-95ae-8ab21588523c
+[29-11-2023 09:22:45] Checking 4f2a6f31-843a-4f6c-81f4-0ddfd0dc45d9.png
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_obstacle1
+[29-11-2023 09:22:45] Checking spr_obstacle1.yy
+[29-11-2023 09:22:45] Parsing C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_obstacle1/spr_obstacle1.yy
+[29-11-2023 09:22:45] Reading C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_obstacle1/spr_obstacle1.yy
+[29-11-2023 09:22:45] Par: "folders/Sprites" at dir: "C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_obstacle1/spr_obstacle1.yy"
+[29-11-2023 09:22:45] Found Sprite: spr_obstacle1
+[29-11-2023 09:22:45] Checking layers
+[29-11-2023 09:22:45] Directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_obstacle1/layers
+[29-11-2023 09:22:45] Checking f063b9f0-4de0-4b04-94d0-1af18982971b.png
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_obstacle1/layers
+[29-11-2023 09:22:45] Checking f063b9f0-4de0-4b04-94d0-1af18982971b
+[29-11-2023 09:22:45] Directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_obstacle1/layers/f063b9f0-4de0-4b04-94d0-1af18982971b
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_obstacle1/layers/f063b9f0-4de0-4b04-94d0-1af18982971b
+[29-11-2023 09:22:45] Checking f1c11497-d5d6-494d-8099-3bfd279a687d.png
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_roads
+[29-11-2023 09:22:45] Checking spr_roads.yy
+[29-11-2023 09:22:45] Parsing C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_roads/spr_roads.yy
+[29-11-2023 09:22:45] Reading C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_roads/spr_roads.yy
+[29-11-2023 09:22:45] Par: "folders/Sprites" at dir: "C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_roads/spr_roads.yy"
+[29-11-2023 09:22:45] Found Sprite: spr_roads
+[29-11-2023 09:22:45] Checking layers
+[29-11-2023 09:22:45] Directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_roads/layers
+[29-11-2023 09:22:45] Checking e49f692c-3d8e-4ebd-9e2b-1e1ad5c7afec.png
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_roads/layers
+[29-11-2023 09:22:45] Checking e49f692c-3d8e-4ebd-9e2b-1e1ad5c7afec
+[29-11-2023 09:22:45] Directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_roads/layers/e49f692c-3d8e-4ebd-9e2b-1e1ad5c7afec
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/sprites/spr_roads/layers/e49f692c-3d8e-4ebd-9e2b-1e1ad5c7afec
+[29-11-2023 09:22:45] Checking a2d82719-169a-49ff-9946-c0fbe38fa035.png
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/tilesets
+[29-11-2023 09:22:45] Checking roadset
+[29-11-2023 09:22:45] Directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/tilesets/roadset
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/tilesets/roadset
+[29-11-2023 09:22:45] Checking roadset.yy
+[29-11-2023 09:22:45] Parsing C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/tilesets/roadset/roadset.yy
+[29-11-2023 09:22:45] Reading C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/tilesets/roadset/roadset.yy
+[29-11-2023 09:22:45] Par: "folders/Tile Sets" at dir: "C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/tilesets/roadset/roadset.yy"
+[29-11-2023 09:22:45] Found TileSet: roadset
+[29-11-2023 09:22:45] Checking output_tileset.png
+[29-11-2023 09:22:45] Current parent directory: C:/Users/clack/OneDrive/Documents/GameMakerStudio2/CobaltP2/timelines
+[29-11-2023 09:22:45] Moving files to trash...
+[29-11-2023 09:22:45] Files yeeted successfully!
+[29-11-2023 09:22:45] Generating YYP...
+[29-11-2023 09:22:45] CobaltP2.yyp created successfully!
