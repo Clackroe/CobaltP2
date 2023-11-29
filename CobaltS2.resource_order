@@ -21,5 +21,11 @@
     {"name":"Sprite3","order":3,"path":"sprites/Sprite3/Sprite3.yy",},
     {"name":"spr_bkgrnd_dev","order":2,"path":"sprites/spr_bkgrnd_dev/spr_bkgrnd_dev.yy",},
     {"name":"spr_roads","order":5,"path":"sprites/spr_roads/spr_roads.yy",},
+    {"name":"spr_car3","order":5,"path":"sprites/spr_car3/spr_car3.yy",},
+    {"name":"spr_bkgrnd_dev","order":2,"path":"sprites/spr_bkgrnd_dev/spr_bkgrnd_dev.yy",},
+    {"name":"obj_obstacle1","order":1,"path":"objects/obj_obstacle1/obj_obstacle1.yy",},
+    {"name":"spr_car1","order":3,"path":"sprites/spr_car1/spr_car1.yy",},
+    {"name":"spr_car2","order":4,"path":"sprites/spr_car2/spr_car2.yy",},
+    {"name":"spr_obstacle1","order":6,"path":"sprites/spr_obstacle1/spr_obstacle1.yy",},
   ],
 }
