@@ -9,6 +9,7 @@
     {"name":"Sprite3","order":6,"path":"sprites/Sprite3/Sprite3.yy",},
     {"name":"spr_bkgrnd_dev","order":7,"path":"sprites/spr_bkgrnd_dev/spr_bkgrnd_dev.yy",},
     {"name":"spr_roads","order":5,"path":"sprites/spr_roads/spr_roads.yy",},
+    {"name":"WinDisplay","order":5,"path":"objects/WinDisplay/WinDisplay.yy",},
     {"name":"obj_pointer","order":4,"path":"objects/obj_pointer/obj_pointer.yy",},
     {"name":"spr_car1","order":2,"path":"sprites/spr_car1/spr_car1.yy",},
     {"name":"spr_car2","order":4,"path":"sprites/spr_car2/spr_car2.yy",},

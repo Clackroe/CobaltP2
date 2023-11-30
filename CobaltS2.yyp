@@ -47,6 +47,7 @@
     {"id":{"name":"ParticleSystem1","path":"particles/ParticleSystem1/ParticleSystem1.yy",},},
     {"id":{"name":"Tunnel","path":"shaders/Tunnel/Tunnel.yy",},},
     {"id":{"name":"spr_car3","path":"sprites/spr_car3/spr_car3.yy",},},
+    {"id":{"name":"WinDisplay","path":"objects/WinDisplay/WinDisplay.yy",},},
     {"id":{"name":"obj_pointer","path":"objects/obj_pointer/obj_pointer.yy",},},
     {"id":{"name":"obj_obstacle1","path":"objects/obj_obstacle1/obj_obstacle1.yy",},},
     {"id":{"name":"spr_car1","path":"sprites/spr_car1/spr_car1.yy",},},

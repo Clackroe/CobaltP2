@@ -8,4 +8,10 @@ vy = camera_get_view_y(camera_get_active())
 
 draw_text(vx + 50, vy+50, string("LAP: " + string(player_laps) + " / " + string(max_lap)))
 
+
 draw_text(vx + 50, vy + 100, string("Checkpoint: " + string(array_length(player_checks)) + " / " + string(num_checks)))
+
+if CheckpointManager.player_laps >= num_laps{
+	draw_text(vx + 50, vy + 150, "You Win!")
+}
+
