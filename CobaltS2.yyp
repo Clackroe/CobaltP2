@@ -31,7 +31,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.8.2.108",
+    "IDEVersion": "2023.8.0.98",
   },
   "resources": [
     {"id":{"name":"Light","path":"sprites/Light/Light.yy",},},
@@ -41,6 +41,7 @@
     {"id":{"name":"spr_tires","path":"sprites/spr_tires/spr_tires.yy",},},
     {"id":{"name":"CheckpointManager","path":"objects/CheckpointManager/CheckpointManager.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
+    {"id":{"name":"obj_car2","path":"objects/obj_car2/obj_car2.yy",},},
     {"id":{"name":"spr_bkgrnd_dev","path":"sprites/spr_bkgrnd_dev/spr_bkgrnd_dev.yy",},},
     {"id":{"name":"spr_roads","path":"sprites/spr_roads/spr_roads.yy",},},
     {"id":{"name":"Pointer","path":"scripts/Pointer/Pointer.yy",},},
@@ -52,6 +53,7 @@
     {"id":{"name":"obj_obstacle1","path":"objects/obj_obstacle1/obj_obstacle1.yy",},},
     {"id":{"name":"spr_car1","path":"sprites/spr_car1/spr_car1.yy",},},
     {"id":{"name":"spr_car2","path":"sprites/spr_car2/spr_car2.yy",},},
+    {"id":{"name":"obj_car3","path":"objects/obj_car3/obj_car3.yy",},},
     {"id":{"name":"Checkpoint","path":"objects/Checkpoint/Checkpoint.yy",},},
     {"id":{"name":"spr_obstacle1","path":"sprites/spr_obstacle1/spr_obstacle1.yy",},},
     {"id":{"name":"spr_pointer","path":"sprites/spr_pointer/spr_pointer.yy",},},

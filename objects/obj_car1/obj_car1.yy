@@ -51,8 +51,8 @@
   ],
   "solid": false,
   "spriteId": {
-    "name": "spr_car_temp",
-    "path": "sprites/spr_car_temp/spr_car_temp.yy",
+    "name": "spr_car1",
+    "path": "sprites/spr_car1/spr_car1.yy",
   },
   "spriteMaskId": null,
   "visible": true,
