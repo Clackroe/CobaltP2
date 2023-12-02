@@ -31,7 +31,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.6.0.92",
+    "IDEVersion": "2023.8.2.108",
   },
   "resources": [
     {"id":{"name":"Light","path":"sprites/Light/Light.yy",},},
@@ -42,6 +42,7 @@
     {"id":{"name":"CheckpointManager","path":"objects/CheckpointManager/CheckpointManager.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
     {"id":{"name":"spr_bkgrnd_dev","path":"sprites/spr_bkgrnd_dev/spr_bkgrnd_dev.yy",},},
+    {"id":{"name":"tunnelset","path":"tilesets/tunnelset/tunnelset.yy",},},
     {"id":{"name":"spr_roads1","path":"sprites/spr_roads1/spr_roads1.yy",},},
     {"id":{"name":"garageset","path":"tilesets/garageset/garageset.yy",},},
     {"id":{"name":"Pointer","path":"scripts/Pointer/Pointer.yy",},},
@@ -49,6 +50,7 @@
     {"id":{"name":"spr_garage2","path":"sprites/spr_garage2/spr_garage2.yy",},},
     {"id":{"name":"Tunnel","path":"shaders/Tunnel/Tunnel.yy",},},
     {"id":{"name":"garage2","path":"tilesets/garage2/garage2.yy",},},
+    {"id":{"name":"spr_tunnels","path":"sprites/spr_tunnels/spr_tunnels.yy",},},
     {"id":{"name":"spr_car3","path":"sprites/spr_car3/spr_car3.yy",},},
     {"id":{"name":"WinDisplay","path":"objects/WinDisplay/WinDisplay.yy",},},
     {"id":{"name":"obj_pointer","path":"objects/obj_pointer/obj_pointer.yy",},},
@@ -69,6 +71,7 @@
     {"roomId":{"name":"Car_Select","path":"rooms/Car_Select/Car_Select.yy",},},
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
+  "templateType": null,
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
   ],
