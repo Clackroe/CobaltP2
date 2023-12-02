@@ -1,7 +1,7 @@
 {
   "resourceType": "GMTileSet",
   "resourceVersion": "1.0",
-  "name": "roadset",
+  "name": "garage2",
   "autoTileSets": [],
   "macroPageTiles": {
     "SerialiseHeight": 0,
@@ -16,10 +16,10 @@
     "path": "folders/Tile Sets.yy",
   },
   "spriteId": {
-    "name": "spr_roads",
-    "path": "sprites/spr_roads/spr_roads.yy",
+    "name": "spr_garage2",
+    "path": "sprites/spr_garage2/spr_garage2.yy",
   },
-  "spriteNoExport": false,
+  "spriteNoExport": true,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
