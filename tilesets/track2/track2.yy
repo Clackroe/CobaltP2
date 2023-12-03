@@ -1,7 +1,7 @@
 {
   "resourceType": "GMTileSet",
   "resourceVersion": "1.0",
-  "name": "roadset1",
+  "name": "track2",
   "autoTileSets": [],
   "macroPageTiles": {
     "SerialiseHeight": 0,
@@ -16,8 +16,8 @@
     "path": "folders/Tile Sets.yy",
   },
   "spriteId": {
-    "name": "spr_roads1",
-    "path": "sprites/spr_roads1/spr_roads1.yy",
+    "name": "spr_track2",
+    "path": "sprites/spr_track2/spr_track2.yy",
   },
   "spriteNoExport": false,
   "textureGroupId": {
