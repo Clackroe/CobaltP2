@@ -3,6 +3,9 @@
 
 speed = clamp(speed, -15, 15)
 
+if CheckpointManager.player_laps >= 3{
+	speed = 0
+}
 //----DEVTESTS
 show_debug_message(p_state)
 
