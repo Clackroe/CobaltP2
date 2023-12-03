@@ -78,10 +78,10 @@
     {"id":{"name":"rm_Track1","path":"rooms/rm_Track1/rm_Track1.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"rm_Track3","path":"rooms/rm_Track3/rm_Track3.yy",},},
     {"roomId":{"name":"Car_Select","path":"rooms/Car_Select/Car_Select.yy",},},
     {"roomId":{"name":"rm_Track1","path":"rooms/rm_Track1/rm_Track1.yy",},},
     {"roomId":{"name":"rm_Track2","path":"rooms/rm_Track2/rm_Track2.yy",},},
+    {"roomId":{"name":"rm_Track3","path":"rooms/rm_Track3/rm_Track3.yy",},},
   ],
   "templateType": null,
   "TextureGroups": [
