@@ -1,7 +1,7 @@
 {
   "resourceType": "GMTileSet",
   "resourceVersion": "1.0",
-  "name": "garageset",
+  "name": "garage3",
   "autoTileSets": [],
   "macroPageTiles": {
     "SerialiseHeight": 0,
@@ -16,10 +16,10 @@
     "path": "folders/Tile Sets.yy",
   },
   "spriteId": {
-    "name": "spr_garage1",
-    "path": "sprites/spr_garage1/spr_garage1.yy",
+    "name": "spr_garage3",
+    "path": "sprites/spr_garage3/spr_garage3.yy",
   },
-  "spriteNoExport": true,
+  "spriteNoExport": false,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
