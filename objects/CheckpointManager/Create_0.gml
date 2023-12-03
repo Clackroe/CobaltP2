@@ -1,5 +1,6 @@
 /// @description Insert description here
 // You can write your code in this editor
+alarm[0] = -1;
 
 player_checks = []
 player_laps = 1
