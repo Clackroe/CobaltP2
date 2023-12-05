@@ -5,7 +5,7 @@
 draw_self()
 
 
-if keyboard_check(ord("T")){
+if global.inside {
 // Create a surface to draw on
 
 
@@ -53,7 +53,7 @@ draw_surface(surf2, surfloc_x, surfloc_y);
 surface_free(surf2);
 
 
-
+ global.inside = false;
 
  
 	

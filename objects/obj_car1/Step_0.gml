@@ -6,6 +6,11 @@ speed = clamp(speed, -15, 15)
 //----DEVTESTS
 show_debug_message(p_state)
 
+//if(place_meeting(x, y, my_tilemap))
+//{
+	
+//}
+
 //pointer
 pointer.x = x
 pointer.y = y-50

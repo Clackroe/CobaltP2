@@ -1,6 +1,9 @@
 /// @description Insert description here
 // You can write your code in this editor
 // Create Event
+
+//my_tilemap = layer_tilemap_get_id("Barriers");
+
 max_speed = max_speed_norm;
 acceleration = accel_norm;
 turn_rate = turn_rate_norm
