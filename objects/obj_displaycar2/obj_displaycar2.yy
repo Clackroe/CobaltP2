@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_displaycar",
+  "name": "obj_displaycar2",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
@@ -32,8 +32,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_car1",
-    "path": "sprites/spr_car1/spr_car1.yy",
+    "name": "spr_car2",
+    "path": "sprites/spr_car2/spr_car2.yy",
   },
   "spriteMaskId": null,
   "visible": true,

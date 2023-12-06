@@ -3,8 +3,8 @@
 
 vspeed -= 2;
 
-part_particles_create(smoke, x + 70, y + 120, 0, 10)
-part_particles_create(smoke, x - 70, y + 120, 0, 10)
+part_particles_create(smoke, x + 60, y + 80, 0, 10)
+part_particles_create(smoke, x - 60, y + 80, 0, 10)
 
 //part_particles_create(smoke, x - 50, y + 70, 1, 10)
 //part_particles_create(smoke, x - 50, y + 70, 1, 10)

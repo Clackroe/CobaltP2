@@ -4,6 +4,17 @@
 
 //my_tilemap = layer_tilemap_get_id("Barriers");
 
+//Set car sprite based on garage selection
+/*if (instance_exists(obj_game_manager))
+{
+	if(obj_game_manager.car_selected == 1)
+	{object_set_sprite(obj_car1, spr_car1)}
+	else if(obj_game_manager.car_selected == 2)
+	{object_set_sprite(obj_car1, spr_car3)}
+	else
+	{object_set_sprite(obj_car1, spr_car3)}
+}*/
+
 max_speed = max_speed_norm;
 acceleration = accel_norm;
 turn_rate = turn_rate_norm

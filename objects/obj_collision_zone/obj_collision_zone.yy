@@ -26,7 +26,7 @@
   "physicsShapePoints": [],
   "physicsStartAwake": true,
   "properties": [],
-  "solid": true,
+  "solid": false,
   "spriteId": {
     "name": "spr_collision_zone",
     "path": "sprites/spr_collision_zone/spr_collision_zone.yy",
