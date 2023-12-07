@@ -31,7 +31,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.800.0.406",
+    "IDEVersion": "2023.11.0.121",
   },
   "resources": [
     {"id":{"name":"Light","path":"sprites/Light/Light.yy",},},
@@ -47,7 +47,6 @@
     {"id":{"name":"obj_car2","path":"objects/obj_car2/obj_car2.yy",},},
     {"id":{"name":"spr_bkgrnd_dev","path":"sprites/spr_bkgrnd_dev/spr_bkgrnd_dev.yy",},},
     {"id":{"name":"op_input_control","path":"objects/op_input_control/op_input_control.yy",},},
-    {"id":{"name":"spr_roads","path":"sprites/spr_roads/spr_roads.yy",},},
     {"id":{"name":"tunnelset","path":"tilesets/tunnelset/tunnelset.yy",},},
     {"id":{"name":"obj_game_manager","path":"objects/obj_game_manager/obj_game_manager.yy",},},
     {"id":{"name":"spr_track1","path":"sprites/spr_track1/spr_track1.yy",},},
@@ -98,6 +97,7 @@
     {"roomId":{"name":"rm_Track2","path":"rooms/rm_Track2/rm_Track2.yy",},},
     {"roomId":{"name":"rm_Track3","path":"rooms/rm_Track3/rm_Track3.yy",},},
   ],
+  "templateType": null,
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
   ],

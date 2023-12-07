@@ -43,6 +43,7 @@ enum PlayerState {
 }
 
 p_state = PlayerState.NORMAL
+crashed = false
 
 
 

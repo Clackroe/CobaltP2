@@ -3,6 +3,10 @@
 
 speed = clamp(speed, -15, 15)
 
+if crashed{
+	alarm_set(1, 0.7 * room.speed)
+}
+
 if CheckpointManager.player_laps >= 3{
 	speed = 0
 }
@@ -82,5 +86,6 @@ spd *= friction;
 // Apply movement
 hspeed += lengthdir_x(spd, dir);
 vspeed += lengthdir_y(spd, dir);
+
 
 camera_set_view_pos(view_camera[0], x - 960, y - 540);

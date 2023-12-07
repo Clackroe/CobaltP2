@@ -13,7 +13,6 @@
     {"name":"obj_car2","order":6,"path":"objects/obj_car2/obj_car2.yy",},
     {"name":"spr_bkgrnd_dev","order":7,"path":"sprites/spr_bkgrnd_dev/spr_bkgrnd_dev.yy",},
     {"name":"op_input_control","order":7,"path":"objects/op_input_control/op_input_control.yy",},
-    {"name":"spr_roads","order":5,"path":"sprites/spr_roads/spr_roads.yy",},
     {"name":"tunnelset","order":3,"path":"tilesets/tunnelset/tunnelset.yy",},
     {"name":"obj_game_manager","order":7,"path":"objects/obj_game_manager/obj_game_manager.yy",},
     {"name":"spr_track1","order":5,"path":"sprites/spr_track1/spr_track1.yy",},
