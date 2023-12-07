@@ -6,8 +6,10 @@
     {"name":"StFin","order":3,"path":"objects/StFin/StFin.yy",},
     {"name":"spr_tires","order":1,"path":"sprites/spr_tires/spr_tires.yy",},
     {"name":"CheckpointManager","order":1,"path":"objects/CheckpointManager/CheckpointManager.yy",},
+    {"name":"obj_op","order":6,"path":"objects/obj_op/obj_op.yy",},
     {"name":"Sprite3","order":6,"path":"sprites/Sprite3/Sprite3.yy",},
     {"name":"spr_bkgrnd_dev","order":7,"path":"sprites/spr_bkgrnd_dev/spr_bkgrnd_dev.yy",},
+    {"name":"op_input_control","order":7,"path":"objects/op_input_control/op_input_control.yy",},
     {"name":"spr_roads","order":5,"path":"sprites/spr_roads/spr_roads.yy",},
     {"name":"WinDisplay","order":5,"path":"objects/WinDisplay/WinDisplay.yy",},
     {"name":"obj_pointer","order":4,"path":"objects/obj_pointer/obj_pointer.yy",},
@@ -18,5 +20,6 @@
     {"name":"spr_pointer","order":11,"path":"sprites/spr_pointer/spr_pointer.yy",},
     {"name":"spr_car_temp","order":3,"path":"sprites/spr_car_temp/spr_car_temp.yy",},
     {"name":"spr_finishDev","order":10,"path":"sprites/spr_finishDev/spr_finishDev.yy",},
+    {"name":"spr_op_control","order":12,"path":"sprites/spr_op_control/spr_op_control.yy",},
   ],
 }
