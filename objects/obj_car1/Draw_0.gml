@@ -65,11 +65,30 @@ surface_free(surf2);
 
 
 if ((abs((abs(dir) - abs(prev_dir))) >= drift_delta_dir) and (abs(hspeed) > 2 or abs(vspeed) > 2)) or (abs(speed - prev_spd) > 0.15 ) {
-	
 
-	part_particles_create(smoke, x, y, 0, 1)
+	if(obj_game_manager.car_selected == 1)
+		{
+			part_particles_create(smoke, x, y, 0, 1)
+			part_particles_create(smoke, x + 15 , y, 1, 1)
+			part_particles_create(smoke, x - 15, y, 1, 1)
+		}
+	else if(obj_game_manager.car_selected == 2)
+		{
+			part_particles_create(smoke, x, y, 0, 1)
+			part_particles_create(smoke, x + 15 , y, 1, 1)
+			part_particles_create(smoke, x - 15, y, 1, 1)
+		}
+	else
+	{
+		part_particles_create(smoke, x, y, 0, 1)
+		part_particles_create(smoke, x + 15 , y, 1, 1)
+		part_particles_create(smoke, x - 15, y, 1, 1)
+	}
+	
+	
+	/*part_particles_create(smoke, x, y, 0, 1)
 	part_particles_create(smoke, x + 15 , y, 1, 1)
-	part_particles_create(smoke, x - 15, y, 1, 1)
+	part_particles_create(smoke, x - 15, y, 1, 1)*/
 }
 //show_debug_message((speed))
 

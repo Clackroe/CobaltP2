@@ -9,8 +9,6 @@
   "instanceCreationOrder": [
     {"name":"inst_2CD2E10B","path":"rooms/rm_Track3/rm_Track3.yy",},
     {"name":"inst_503C035F","path":"rooms/rm_Track3/rm_Track3.yy",},
-    {"name":"inst_6428568D","path":"rooms/rm_Track3/rm_Track3.yy",},
-    {"name":"inst_6EE94684","path":"rooms/rm_Track3/rm_Track3.yy",},
     {"name":"inst_5CB0A954","path":"rooms/rm_Track3/rm_Track3.yy",},
     {"name":"inst_46BADEB0","path":"rooms/rm_Track3/rm_Track3.yy",},
     {"name":"inst_71E0CD9F","path":"rooms/rm_Track3/rm_Track3.yy",},
@@ -55,8 +53,6 @@
     {"resourceType":"GMRInstanceLayer","resourceVersion":"1.0","name":"Instances","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_2CD2E10B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"StFin","path":"objects/StFin/StFin.yy",},"properties":[],"rotation":0.0,"scaleX":0.5,"scaleY":4.5,"x":2704.0,"y":4528.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_503C035F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"CheckpointManager","path":"objects/CheckpointManager/CheckpointManager.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2528.0,"y":4192.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6428568D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_game_manager","path":"objects/obj_game_manager/obj_game_manager.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":2336.0,"y":4128.0,},
-        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_6EE94684","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_car1","path":"objects/obj_car1/obj_car1.yy",},"properties":[],"rotation":-88.2178,"scaleX":1.0,"scaleY":1.0,"x":3162.0,"y":4528.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5CB0A954","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"Checkpoint","path":"objects/Checkpoint/Checkpoint.yy",},"properties":[
             {"resourceType":"GMOverriddenProperty","resourceVersion":"1.0","name":"","objectId":{"name":"Checkpoint","path":"objects/Checkpoint/Checkpoint.yy",},"propertyId":{"name":"order_num","path":"objects/Checkpoint/Checkpoint.yy",},"value":"0",},
           ],"rotation":0.0,"scaleX":0.5,"scaleY":4.5,"x":1232.0,"y":4528.0,},

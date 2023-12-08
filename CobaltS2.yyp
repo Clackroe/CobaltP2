@@ -31,7 +31,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.6.0.92",
+    "IDEVersion": "2023.8.2.108",
   },
   "resources": [
     {"id":{"name":"Light","path":"sprites/Light/Light.yy",},},
@@ -43,6 +43,7 @@
     {"id":{"name":"track2","path":"tilesets/track2/track2.yy",},},
     {"id":{"name":"obj_displaycar2","path":"objects/obj_displaycar2/obj_displaycar2.yy",},},
     {"id":{"name":"Sprite3","path":"sprites/Sprite3/Sprite3.yy",},},
+    {"id":{"name":"spr_stats","path":"sprites/spr_stats/spr_stats.yy",},},
     {"id":{"name":"spr_bkgrnd_dev","path":"sprites/spr_bkgrnd_dev/spr_bkgrnd_dev.yy",},},
     {"id":{"name":"tunnelset","path":"tilesets/tunnelset/tunnelset.yy",},},
     {"id":{"name":"obj_game_manager","path":"objects/obj_game_manager/obj_game_manager.yy",},},
@@ -59,6 +60,7 @@
     {"id":{"name":"Tunnel","path":"shaders/Tunnel/Tunnel.yy",},},
     {"id":{"name":"obj_collision_zone","path":"objects/obj_collision_zone/obj_collision_zone.yy",},},
     {"id":{"name":"garage2","path":"tilesets/garage2/garage2.yy",},},
+    {"id":{"name":"stats","path":"tilesets/stats/stats.yy",},},
     {"id":{"name":"spr_tunnels","path":"sprites/spr_tunnels/spr_tunnels.yy",},},
     {"id":{"name":"rm_Track2","path":"rooms/rm_Track2/rm_Track2.yy",},},
     {"id":{"name":"spr_car1","path":"sprites/spr_car1/spr_car1.yy",},},
@@ -91,6 +93,7 @@
     {"roomId":{"name":"rm_Track2","path":"rooms/rm_Track2/rm_Track2.yy",},},
     {"roomId":{"name":"rm_Track3","path":"rooms/rm_Track3/rm_Track3.yy",},},
   ],
+  "templateType": null,
   "TextureGroups": [
     {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
   ],
