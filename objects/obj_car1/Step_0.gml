@@ -47,7 +47,9 @@ if is_drifting{
 	acceleration = accel_drift
 	max_speed = max_speed_drift
 	turn_rate = turn_rate_drift
-
+	if(!audio_is_playing(drift_sfx)){
+		audio_play_sound(drift_sfx, 10, false)
+	}
 }
 else{
 	friction = friction_norm
@@ -64,6 +66,12 @@ if p_state == PlayerState.SLIPPING{
 // Handling input
 if (_key_accelerate) {
     spd += acceleration;
+	if(!audio_is_playing(driving_sfx)){
+		audio_play_sound(driving_sfx, 10, true)
+	}
+}
+if (!_key_accelerate and audio_is_playing(driving_sfx)){
+	audio_stop_sound(driving_sfx)
 }
 if (_key_reverse) {
     spd -= acceleration;

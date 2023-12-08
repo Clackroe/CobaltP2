@@ -1,5 +1,11 @@
 /// @description Insert description here
 // You can write your code in this editor
+audio_stop_sound(select_theme)
+
+if(!audio_is_playing(gameplay_theme)){
+	audio_play_sound(gameplay_theme, 5, true)
+}
+
 alarm[0] = -1;
 
 player_checks = []
