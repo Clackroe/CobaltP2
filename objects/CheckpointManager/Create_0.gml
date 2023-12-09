@@ -1,5 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
+health = 100
+
 audio_stop_sound(select_theme)
 
 if(!audio_is_playing(gameplay_theme)){

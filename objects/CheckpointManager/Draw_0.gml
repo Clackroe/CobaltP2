@@ -5,6 +5,9 @@ vx = camera_get_view_x(camera_get_active())
 vy = camera_get_view_y(camera_get_active())
 
 
+if instance_exists(obj_car1) or instance_exists(obj_car2) or instance_exists(obj_car3){
+	draw_healthbar(vx + 8, vy + 8, vx + 256, vy + 32, health, c_black, c_red, c_lime, 0, true, true)
+}
 
 
 
