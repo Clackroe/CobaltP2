@@ -6,6 +6,7 @@ curr_check = array_length(CheckpointManager.player_checks) - 1
 
 if curr_check == CheckpointManager.num_checks - 1{
 	
+	health = 100
 	t = CheckpointManager.curr_time
 
 	
