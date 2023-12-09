@@ -18,3 +18,18 @@ num_checks = instance_number(Checkpoint)
 
 
 max_lap = CheckpointManager.num_laps
+
+
+start_time = current_time
+lap_start_time = start_time 
+
+curr_time = ""
+
+vx = 0;
+vy = 0;
+
+depth = -2
+
+
+lap_times = []
+

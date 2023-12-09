@@ -1,7 +1,7 @@
 {
   "resourceType": "GMSound",
   "resourceVersion": "1.0",
-  "name": "gameplay_theme",
+  "name": "snd_check",
   "audioGroupId": {
     "name": "audiogroup_default",
     "path": "audiogroups/audiogroup_default",
@@ -10,14 +10,14 @@
   "bitRate": 128,
   "compression": 0,
   "conversionMode": 0,
-  "duration": 236.25142,
+  "duration": 0.913719,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",
   },
   "preload": false,
   "sampleRate": 44100,
-  "soundFile": "gameplay_theme.mp3",
+  "soundFile": "snd_check.wav",
   "type": 0,
-  "volume": 0.12,
+  "volume": 1.0,
 }
