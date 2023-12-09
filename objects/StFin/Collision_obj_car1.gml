@@ -1,9 +1,15 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+
 curr_check = array_length(CheckpointManager.player_checks) - 1
 
 if curr_check == CheckpointManager.num_checks - 1{
+	
+	t = CheckpointManager.curr_time
+
+	
+	draw_time = true
 	
 	if other.player{
 		CheckpointManager.player_laps += 1
@@ -30,3 +36,4 @@ if curr_check == CheckpointManager.num_checks - 1{
 else{
 
 }
+
