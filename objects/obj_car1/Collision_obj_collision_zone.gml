@@ -14,3 +14,9 @@
 //}	
 hspeed *=-0.7
 vspeed *=-0.7
+
+if(!audio_is_playing(impact_sfx) and !crashed and speed > 0){
+	crashed = true
+	audio_play_sound(impact_sfx, 10, false)
+	alarm_set(1, 50)
+}

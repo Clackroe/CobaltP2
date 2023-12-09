@@ -2,7 +2,9 @@
   "FolderOrderSettings": [],
   "ResourceOrderSettings": [
     {"name":"Light","order":8,"path":"sprites/Light/Light.yy",},
+    {"name":"checkpoint","order":1,"path":"shaders/checkpoint/checkpoint.yy",},
     {"name":"spr_checkpointDev","order":9,"path":"sprites/spr_checkpointDev/spr_checkpointDev.yy",},
+    {"name":"sh_norm","order":3,"path":"shaders/sh_norm/sh_norm.yy",},
     {"name":"StFin","order":3,"path":"objects/StFin/StFin.yy",},
     {"name":"fnt_sub","order":2,"path":"fonts/fnt_sub/fnt_sub.yy",},
     {"name":"spr_tires","order":1,"path":"sprites/spr_tires/spr_tires.yy",},
