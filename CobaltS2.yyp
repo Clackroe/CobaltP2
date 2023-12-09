@@ -31,7 +31,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.11.0.121",
+    "IDEVersion": "2023.8.2.108",
   },
   "resources": [
     {"id":{"name":"Light","path":"sprites/Light/Light.yy",},},
@@ -54,6 +54,7 @@
     {"id":{"name":"tunnelset","path":"tilesets/tunnelset/tunnelset.yy",},},
     {"id":{"name":"obj_game_manager","path":"objects/obj_game_manager/obj_game_manager.yy",},},
     {"id":{"name":"spr_track1","path":"sprites/spr_track1/spr_track1.yy",},},
+    {"id":{"name":"Sprite26","path":"sprites/Sprite26/Sprite26.yy",},},
     {"id":{"name":"obj_displaycar","path":"objects/obj_displaycar/obj_displaycar.yy",},},
     {"id":{"name":"track3","path":"tilesets/track3/track3.yy",},},
     {"id":{"name":"barrierset","path":"tilesets/barrierset/barrierset.yy",},},
@@ -89,6 +90,7 @@
     {"id":{"name":"rm_Track1","path":"rooms/rm_Track1/rm_Track1.yy",},},
     {"id":{"name":"impact_sfx","path":"sounds/impact_sfx/impact_sfx.yy",},},
     {"id":{"name":"spr_garage3","path":"sprites/spr_garage3/spr_garage3.yy",},},
+    {"id":{"name":"Game_Over","path":"rooms/Game_Over/Game_Over.yy",},},
     {"id":{"name":"Checkpoint","path":"objects/Checkpoint/Checkpoint.yy",},},
     {"id":{"name":"select_theme","path":"sounds/select_theme/select_theme.yy",},},
     {"id":{"name":"spr_obstacle1","path":"sprites/spr_obstacle1/spr_obstacle1.yy",},},
@@ -108,6 +110,7 @@
     {"roomId":{"name":"rm_Track1","path":"rooms/rm_Track1/rm_Track1.yy",},},
     {"roomId":{"name":"rm_Track2","path":"rooms/rm_Track2/rm_Track2.yy",},},
     {"roomId":{"name":"rm_Track3","path":"rooms/rm_Track3/rm_Track3.yy",},},
+    {"roomId":{"name":"Game_Over","path":"rooms/Game_Over/Game_Over.yy",},},
   ],
   "templateType": null,
   "TextureGroups": [
