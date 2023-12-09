@@ -43,6 +43,7 @@ prev_spd = 0
 
 var surfaceWithMask
 
+depth = -1
 
 pointer = instance_create_depth(x, y-50, depth -1, obj_pointer)
 pointer.image_xscale = 0.4
@@ -56,6 +57,7 @@ enum PlayerState {
 }
 
 p_state = PlayerState.NORMAL
+crashed = false
 
 
 
