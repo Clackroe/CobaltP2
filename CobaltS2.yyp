@@ -57,6 +57,7 @@
     {"id":{"name":"obj_displaycar","path":"objects/obj_displaycar/obj_displaycar.yy",},},
     {"id":{"name":"track3","path":"tilesets/track3/track3.yy",},},
     {"id":{"name":"barrierset","path":"tilesets/barrierset/barrierset.yy",},},
+    {"id":{"name":"Game_Start","path":"rooms/Game_Start/Game_Start.yy",},},
     {"id":{"name":"rm_Track2","path":"rooms/rm_Track2/rm_Track2.yy",},},
     {"id":{"name":"garageset","path":"tilesets/garageset/garageset.yy",},},
     {"id":{"name":"rm_Track3","path":"rooms/rm_Track3/rm_Track3.yy",},},
@@ -106,6 +107,7 @@
     {"id":{"name":"obj_car1","path":"objects/obj_car1/obj_car1.yy",},},
   ],
   "RoomOrderNodes": [
+    {"roomId":{"name":"Game_Start","path":"rooms/Game_Start/Game_Start.yy",},},
     {"roomId":{"name":"Car_Select","path":"rooms/Car_Select/Car_Select.yy",},},
     {"roomId":{"name":"rm_Track1","path":"rooms/rm_Track1/rm_Track1.yy",},},
     {"roomId":{"name":"rm_Track2","path":"rooms/rm_Track2/rm_Track2.yy",},},

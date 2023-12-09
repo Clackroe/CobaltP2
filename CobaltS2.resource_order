@@ -23,6 +23,7 @@
     {"name":"obj_displaycar","order":6,"path":"objects/obj_displaycar/obj_displaycar.yy",},
     {"name":"track3","order":6,"path":"tilesets/track3/track3.yy",},
     {"name":"barrierset","order":7,"path":"tilesets/barrierset/barrierset.yy",},
+    {"name":"Game_Start","order":7,"path":"rooms/Game_Start/Game_Start.yy",},
     {"name":"rm_Track2","order":5,"path":"rooms/rm_Track2/rm_Track2.yy",},
     {"name":"garageset","order":1,"path":"tilesets/garageset/garageset.yy",},
     {"name":"rm_Track3","order":3,"path":"rooms/rm_Track3/rm_Track3.yy",},
