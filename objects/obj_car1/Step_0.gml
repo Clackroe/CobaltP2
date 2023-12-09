@@ -13,10 +13,6 @@ if CheckpointManager.player_laps >= 3{
 //----DEVTESTS
 //show_debug_message(p_state)
 
-//if(place_meeting(x, y, my_tilemap))
-//{
-	
-//}
 
 //pointer
 pointer.x = x
@@ -95,5 +91,5 @@ spd *= friction;
 hspeed += lengthdir_x(spd, dir);
 vspeed += lengthdir_y(spd, dir);
 
-
 camera_set_view_pos(view_camera[0], x - 960, y - 540);
+

@@ -3,4 +3,5 @@
 
 alarm[0] = -1;
 
+
 smoke = part_system_create(ParticleSystem1)

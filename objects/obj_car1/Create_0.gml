@@ -1,19 +1,32 @@
 /// @description Insert description here
 // You can write your code in this editor
 // Create Event
+	
+//Fixes car orientation
+image_xscale = 0.8
+image_yscale = 0.8
+image_angle -= 90;
 
-//my_tilemap = layer_tilemap_get_id("Barriers");
-
-//Set car sprite based on garage selection
-/*if (instance_exists(obj_game_manager))
-{
-	if(obj_game_manager.car_selected == 1)
-	{object_set_sprite(obj_car1, spr_car1)}
+//Stat changes per car (Default, Drifter, F1)
+if(obj_game_manager.car_selected == 1)
+	{
+		max_speed_norm = max_speed_norm;
+		accel_norm = accel_norm;
+	}
 	else if(obj_game_manager.car_selected == 2)
-	{object_set_sprite(obj_car1, spr_car3)}
+	{
+		max_speed_norm = max_speed_norm;
+		accel_norm = accel_norm + 0.7;
+		turn_rate_drift = turn_rate_drift + 0.9;
+		accel_drift = accel_drift + 0.5;
+	}
 	else
-	{object_set_sprite(obj_car1, spr_car3)}
-}*/
+	{
+		max_speed_norm = max_speed_norm + 0.5;
+		accel_norm = accel_norm + 0.5;
+		turn_rate_norm = turn_rate_norm + 0.7;
+	}
+	
 
 max_speed = max_speed_norm;
 acceleration = accel_norm;

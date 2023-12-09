@@ -1,6 +1,8 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+
+
 global.inside = false;
 
 car_selected = 0;
@@ -12,3 +14,4 @@ if(car_selected == 0){
 if(room != Car_Select){
 	audio_stop_sound(select_theme)
 }
+
