@@ -8,6 +8,7 @@
     {"name":"StFin","order":3,"path":"objects/StFin/StFin.yy",},
     {"name":"fnt_sub","order":2,"path":"fonts/fnt_sub/fnt_sub.yy",},
     {"name":"spr_tires","order":1,"path":"sprites/spr_tires/spr_tires.yy",},
+    {"name":"obj_loss_manager","order":12,"path":"objects/obj_loss_manager/obj_loss_manager.yy",},
     {"name":"CheckpointManager","order":1,"path":"objects/CheckpointManager/CheckpointManager.yy",},
     {"name":"obj_op","order":6,"path":"objects/obj_op/obj_op.yy",},
     {"name":"track2","order":5,"path":"tilesets/track2/track2.yy",},

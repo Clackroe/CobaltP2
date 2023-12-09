@@ -42,6 +42,7 @@
     {"id":{"name":"StFin","path":"objects/StFin/StFin.yy",},},
     {"id":{"name":"fnt_sub","path":"fonts/fnt_sub/fnt_sub.yy",},},
     {"id":{"name":"spr_tires","path":"sprites/spr_tires/spr_tires.yy",},},
+    {"id":{"name":"obj_loss_manager","path":"objects/obj_loss_manager/obj_loss_manager.yy",},},
     {"id":{"name":"CheckpointManager","path":"objects/CheckpointManager/CheckpointManager.yy",},},
     {"id":{"name":"obj_op","path":"objects/obj_op/obj_op.yy",},},
     {"id":{"name":"track2","path":"tilesets/track2/track2.yy",},},
