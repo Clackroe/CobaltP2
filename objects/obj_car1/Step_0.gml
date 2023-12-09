@@ -11,7 +11,7 @@ if CheckpointManager.player_laps >= 3{
 	speed = 0
 }
 //----DEVTESTS
-show_debug_message(p_state)
+//show_debug_message(p_state)
 
 //if(place_meeting(x, y, my_tilemap))
 //{

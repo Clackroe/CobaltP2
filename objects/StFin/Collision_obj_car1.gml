@@ -14,6 +14,18 @@ if curr_check == CheckpointManager.num_checks - 1{
 		CheckpointManager.op_checks = []
 	}
 	
+	CheckpointManager.lap_start_time = current_time
+	
+	
+	for (var i = 0; i < instance_number(Checkpoint); ++i;){
+		//instance_find(Checkpoint, i).last_time_ms = CheckpointManager.lap_start_time
+		instance_find(Checkpoint, i).time_diff = ""
+		instance_find(Checkpoint, i).al = 1;
+		instance_find(Checkpoint, i).pos = 0
+	}
+	
+	
+	
 }
 else{
 
