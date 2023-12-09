@@ -2,7 +2,7 @@
 // You can write your code in this editor
 
 
-if(room != "Game_Start")
+if(room == Game_Start)
 {
 	if(keyboard_check_pressed(vk_enter))
 	{
