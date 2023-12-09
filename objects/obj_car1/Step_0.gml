@@ -7,7 +7,7 @@ if crashed{
 	alarm_set(1, 0.7 * room.speed)
 }
 
-if CheckpointManager.player_laps >= 3{
+if CheckpointManager.player_laps > 3{
 	speed = 0
 }
 //----DEVTESTS
