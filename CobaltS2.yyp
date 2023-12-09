@@ -54,6 +54,7 @@
     {"id":{"name":"obj_car2","path":"objects/obj_car2/obj_car2.yy",},},
     {"id":{"name":"spr_bkgrnd_dev","path":"sprites/spr_bkgrnd_dev/spr_bkgrnd_dev.yy",},},
     {"id":{"name":"op_input_control","path":"objects/op_input_control/op_input_control.yy",},},
+    {"id":{"name":"Win_Screen","path":"rooms/Win_Screen/Win_Screen.yy",},},
     {"id":{"name":"tunnelset","path":"tilesets/tunnelset/tunnelset.yy",},},
     {"id":{"name":"obj_game_manager","path":"objects/obj_game_manager/obj_game_manager.yy",},},
     {"id":{"name":"spr_track1","path":"sprites/spr_track1/spr_track1.yy",},},
@@ -67,6 +68,7 @@
     {"id":{"name":"gameplay_theme","path":"sounds/gameplay_theme/gameplay_theme.yy",},},
     {"id":{"name":"Pointer","path":"scripts/Pointer/Pointer.yy",},},
     {"id":{"name":"ParticleSystem1","path":"particles/ParticleSystem1/ParticleSystem1.yy",},},
+    {"id":{"name":"Sprite27","path":"sprites/Sprite27/Sprite27.yy",},},
     {"id":{"name":"drift_sfx","path":"sounds/drift_sfx/drift_sfx.yy",},},
     {"id":{"name":"obj_displaycar3","path":"objects/obj_displaycar3/obj_displaycar3.yy",},},
     {"id":{"name":"fnt_Large","path":"fonts/fnt_Large/fnt_Large.yy",},},
@@ -117,6 +119,7 @@
     {"roomId":{"name":"rm_Track2","path":"rooms/rm_Track2/rm_Track2.yy",},},
     {"roomId":{"name":"rm_Track3","path":"rooms/rm_Track3/rm_Track3.yy",},},
     {"roomId":{"name":"Game_Over","path":"rooms/Game_Over/Game_Over.yy",},},
+    {"roomId":{"name":"Win_Screen","path":"rooms/Win_Screen/Win_Screen.yy",},},
   ],
   "templateType": null,
   "TextureGroups": [
