@@ -1,8 +1,15 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+obj_game_manager.rv = lerp(obj_game_manager.rv, 0, 0.1)
 
+shader_set(checkpoint)
+
+u_add = shader_get_uniform(checkpoint, "add")
+shader_set_uniform_f(u_add, obj_game_manager.rv, obj_game_manager.rv, obj_game_manager.rv)
 draw_self()
+
+shader_reset()
 
 
 if global.inside {

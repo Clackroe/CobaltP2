@@ -61,5 +61,4 @@ crashed = false
 
 
 
-
 smoke = part_system_create(ParticleSystem1)

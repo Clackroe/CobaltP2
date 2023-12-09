@@ -23,6 +23,8 @@ if not audio_is_playing(snd_check){
 	audio_play_sound(snd_check, 99, false)
 }
 
+obj_game_manager.rv = 1
+
 if not show_time{
 	time_diff = string("{0}:{1}:{2}", 
 	    int64(((current_time - CheckpointManager.lap_start_time) / 60000) % 60),
@@ -32,9 +34,11 @@ if not show_time{
 	
 	if (current_time - CheckpointManager.lap_start_time) > last_diff{
 		col = c_red
+
 	}
 	else {
 		col = c_green
+
 	}
 	
 	if not has_checked{

@@ -15,3 +15,8 @@ if(room != Car_Select){
 	audio_stop_sound(select_theme)
 }
 
+
+rv = 0.0
+gv = 0.0
+
+shader = checkpoint

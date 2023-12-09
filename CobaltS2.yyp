@@ -35,8 +35,10 @@
   },
   "resources": [
     {"id":{"name":"Light","path":"sprites/Light/Light.yy",},},
+    {"id":{"name":"checkpoint","path":"shaders/checkpoint/checkpoint.yy",},},
     {"id":{"name":"spr_checkpointDev","path":"sprites/spr_checkpointDev/spr_checkpointDev.yy",},},
     {"id":{"name":"track1","path":"tilesets/track1/track1.yy",},},
+    {"id":{"name":"sh_norm","path":"shaders/sh_norm/sh_norm.yy",},},
     {"id":{"name":"StFin","path":"objects/StFin/StFin.yy",},},
     {"id":{"name":"fnt_sub","path":"fonts/fnt_sub/fnt_sub.yy",},},
     {"id":{"name":"spr_tires","path":"sprites/spr_tires/spr_tires.yy",},},
