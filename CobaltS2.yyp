@@ -31,9 +31,7 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-
     "IDEVersion": "2023.11.0.121",
-
   },
   "resources": [
     {"id":{"name":"Light","path":"sprites/Light/Light.yy",},},
@@ -59,6 +57,7 @@
     {"id":{"name":"obj_displaycar","path":"objects/obj_displaycar/obj_displaycar.yy",},},
     {"id":{"name":"track3","path":"tilesets/track3/track3.yy",},},
     {"id":{"name":"barrierset","path":"tilesets/barrierset/barrierset.yy",},},
+    {"id":{"name":"rm_Track2","path":"rooms/rm_Track2/rm_Track2.yy",},},
     {"id":{"name":"garageset","path":"tilesets/garageset/garageset.yy",},},
     {"id":{"name":"rm_Track3","path":"rooms/rm_Track3/rm_Track3.yy",},},
     {"id":{"name":"gameplay_theme","path":"sounds/gameplay_theme/gameplay_theme.yy",},},
@@ -74,7 +73,6 @@
     {"id":{"name":"garage2","path":"tilesets/garage2/garage2.yy",},},
     {"id":{"name":"stats","path":"tilesets/stats/stats.yy",},},
     {"id":{"name":"spr_tunnels","path":"sprites/spr_tunnels/spr_tunnels.yy",},},
-    {"id":{"name":"rm_Track2","path":"rooms/rm_Track2/rm_Track2.yy",},},
     {"id":{"name":"spr_car1","path":"sprites/spr_car1/spr_car1.yy",},},
     {"id":{"name":"fnt_default","path":"fonts/fnt_default/fnt_default.yy",},},
     {"id":{"name":"spr_track2","path":"sprites/spr_track2/spr_track2.yy",},},
@@ -88,6 +86,7 @@
     {"id":{"name":"spr_car3","path":"sprites/spr_car3/spr_car3.yy",},},
     {"id":{"name":"spr_car2","path":"sprites/spr_car2/spr_car2.yy",},},
     {"id":{"name":"obj_car3","path":"objects/obj_car3/obj_car3.yy",},},
+    {"id":{"name":"rm_Track1","path":"rooms/rm_Track1/rm_Track1.yy",},},
     {"id":{"name":"impact_sfx","path":"sounds/impact_sfx/impact_sfx.yy",},},
     {"id":{"name":"spr_garage3","path":"sprites/spr_garage3/spr_garage3.yy",},},
     {"id":{"name":"Checkpoint","path":"objects/Checkpoint/Checkpoint.yy",},},
@@ -103,7 +102,6 @@
     {"id":{"name":"spr_track3","path":"sprites/spr_track3/spr_track3.yy",},},
     {"id":{"name":"Car_Select","path":"rooms/Car_Select/Car_Select.yy",},},
     {"id":{"name":"obj_car1","path":"objects/obj_car1/obj_car1.yy",},},
-    {"id":{"name":"rm_Track1","path":"rooms/rm_Track1/rm_Track1.yy",},},
   ],
   "RoomOrderNodes": [
     {"roomId":{"name":"Car_Select","path":"rooms/Car_Select/Car_Select.yy",},},
