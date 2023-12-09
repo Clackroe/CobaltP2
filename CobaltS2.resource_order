@@ -55,6 +55,7 @@
     {"name":"impact_sfx","order":4,"path":"sounds/impact_sfx/impact_sfx.yy",},
     {"name":"spr_garage3","order":15,"path":"sprites/spr_garage3/spr_garage3.yy",},
     {"name":"Game_Over","order":6,"path":"rooms/Game_Over/Game_Over.yy",},
+    {"name":"fnt_XLarge","order":3,"path":"fonts/fnt_XLarge/fnt_XLarge.yy",},
     {"name":"Checkpoint","order":2,"path":"objects/Checkpoint/Checkpoint.yy",},
     {"name":"spr_obstacle1","order":1,"path":"sprites/spr_obstacle1/spr_obstacle1.yy",},
     {"name":"spr_barriers","order":19,"path":"sprites/spr_barriers/spr_barriers.yy",},

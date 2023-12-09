@@ -3,7 +3,7 @@
 
 
 
-if(room != "Car_Select")
+if(room != Car_Select)
 {
 	if(car_selected == 1)
 		{object_set_sprite(obj_car1, spr_car1)}
